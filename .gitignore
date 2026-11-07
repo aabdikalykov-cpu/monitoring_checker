@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+.streamlit/
+.cache/
+.ocr_downloads/
+.test_data/
+monitoring_result.xlsx

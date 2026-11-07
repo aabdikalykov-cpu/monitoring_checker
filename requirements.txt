@@ -1,0 +1,13 @@
+streamlit>=1.28
+anthropic>=0.39
+openpyxl>=3.1
+xlrd>=2.0
+pandas>=2.0
+python-docx>=1.0
+pypdf>=4.0
+pdfplumber>=0.10
+Pillow>=10.0
+pytesseract>=0.3.10
+PyYAML>=6.0
+requests>=2.31
+python-dotenv>=1.0
